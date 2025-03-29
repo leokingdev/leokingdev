@@ -1,14 +1,1 @@
-Olá! Eu sou o leonardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<!-- Estudando Ciência de Dados  -->
-Sou entusiasta de Ciência de Dados, sempre aprendendo algo novo sobre análise, estatística, machine learning e visualização de dados. Neste espaço, compartilho meus projetos, experimentos e estudos. Fique à vontade para explorar!
-
-Sobre mim
-🎓 Estudante de Ciência de Dados e apaixonado(a) por resolver problemas reais com dados.
-
-🧠 Interessado(a) em Machine Learning, Deep Learning, Análise de Dados e Visualização.
-
-🌱 Atualmente aprendendo Python, SQL e aprimorando conhecimentos em estatística.
-
-💬 Pergunte-me sobre análise exploratória, pandas, matplotlib, scikit-learn...
-
-⚡ Curiosidade: Adoro criar projetos que envolvam storytelling e dados abertos.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Úrsula+Fernanda;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg) ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
